@@ -1,1 +1,1 @@
-# AI_Job_Application_Tracker
+# AI-Job-Application-Tracker
